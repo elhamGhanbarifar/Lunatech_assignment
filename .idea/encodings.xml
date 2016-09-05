@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lib/commons-csv-1.3.jar" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/lib/javax.servlet-api-3.1.0.jar" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/lib/jstl-1.2.jar" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/lib/junit-4.10.jar" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/lib/log4j-1.2.17.jar" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/test" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/test/java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/web/errorPage.jsp" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/web/mainPage.jsp" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/web/resultPage.jsp" charset="windows-1256" />
+  </component>
+</project>
